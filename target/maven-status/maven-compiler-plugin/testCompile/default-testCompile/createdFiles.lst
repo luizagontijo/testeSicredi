@@ -1,0 +1,7 @@
+gerenciador\produtos\BuscaProdutosTest.class
+gerenciador\produtos\CadastrarProdutosTest.class
+gerenciador\produtos\GerarTokenTest.class
+gerenciador\produtos\StatusTest.class
+gerenciador\produtos\BuscarUsuariosTest.class
+gerenciador\produtos\BuscarProdutosAutenticadoTest.class
+gerenciador\produtos\BuscarProdutosPorIdTest.class
